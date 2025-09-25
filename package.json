@@ -1,0 +1,22 @@
+{
+  "name": "portafolio-web",
+  "version": "1.0.0",
+  "description": "Un portafolio web personal para mostrar proyectos y habilidades.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "portafolio",
+    "web",
+    "personal"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
